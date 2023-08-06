@@ -4,6 +4,7 @@ import Forecast from "./components/forecast/Forecast";
 import Seacrh from "./components/search/Search";
 import CurrentWeather from "./components/current-weather/currentWeather";
 import { WEATHER_API_URL, WEATHER_API_KEY } from "./api.js";
+import AccordionTest from "./components/accordion-test/AccordionTest";
 
 function App() {
   const [currentWeather, setCurrentWeather] = useState(null);
@@ -43,6 +44,10 @@ function App() {
       <Seacrh onSearchChange={handleOnSearchChange} />
       {currentWeather && <CurrentWeather data={currentWeather} />}
       {forecast && <Forecast data={forecast} />}
+      <AccordionTest
+        title="Accordion Teste"
+        text="Texte teste do accordion. "
+      />
     </div>
   );
 }

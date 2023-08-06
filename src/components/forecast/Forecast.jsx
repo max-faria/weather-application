@@ -25,12 +25,13 @@ const Forecast = ({ data }) => {
     WEEK_DAYS.slice(0, dayInAWeek)
   );
 
-  const [open, setOpen] = useState(false);
+  const [isOpen, setIsOpen] = useState(false);
 
   let toggleHandler = (e) => {
-    setOpen(!open);
+    console.log("trocou");
+    //switch state
+    setIsOpen(!isOpen);
   };
-
   return (
     <>
       <label className="title">Daily</label>
