@@ -44,6 +44,8 @@ The project was inspired on a project from FreeCodeCamp.org
 
 ## Screenshots
 
+![weather-application](https://github.com/max-faria/weather-applications/assets/127763619/2f2e6c66-fc5a-48a9-a7bf-b58f246e96e4)
+
 
 ## Author
 
