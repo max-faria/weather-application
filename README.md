@@ -35,7 +35,7 @@ The project was inspired on a project from FreeCodeCamp.org
  </a>
 
  <a>
- <img style="border-radius: 50%;" src=" https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="50px;"/>
+ <img style="border-radius: 50%;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="50px;"/>
  </a>
  </div>
 
