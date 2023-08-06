@@ -9,7 +9,7 @@ The project was inspired on a project from FreeCodeCamp.org
 
 ## Project Status
 
-![Project Status](https://img.shields.io/badge/status-underConstruction-yellow)
+![Project Status](https://img.shields.io/badge/status-finalized-success)
 
 ## Learnings
 
