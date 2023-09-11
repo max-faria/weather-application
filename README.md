@@ -1,5 +1,5 @@
 # Weather Web Application with API
-This project was biult with the objective to create a web applications with API integration. In this project was created a web application where the user can search for any city with more than 10k habitants and then get the information about the current weather and the forecast for the next 7 days.
+This project was biuld with the objective to create a web applications with API integration. In this project was created a web application where the user can search for any city with more than 10k habitants and then get the information about the current weather and the forecast for the next 7 days.
 
 For this project I used the OpenWeather API to get the weather informations and the GeoApi to get the location information. 
 
