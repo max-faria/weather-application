@@ -54,7 +54,7 @@ The project was inspired on a project from FreeCodeCamp.org
  <sub><b> Made with ❤️ and sweat by Max Faria 👋🏽 Get in touch!</b></sub></a> <a></a>
  <br />
 
-[![Linkedin Badge](https://img.shields.io/badge/-Max-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)]([https://www.linkedin.com/in/tgmarinho/](https://www.linkedin.com/in/max-faria-b212801ba/)) 
+[![Linkedin Badge](https://img.shields.io/badge/-Max-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/max-faria-b212801ba/)
 [![Gmail Badge](https://img.shields.io/badge/-mxxfaria@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mxxfaria@gmail.com)](mailto:mxxfaria@gmail.com)
 
 ## License
